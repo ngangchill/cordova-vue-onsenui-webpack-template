@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/caiobiodere/cordova-template-framework7-vue-webpack.git"
+    "url": "https://github.com/ngangchill/cordova-vue-onsenui-webpack-template.git"
   },
-  "homepage": "https://github.com/caiobiodere/cordova-template-framework7-vue-webpack",
+  "homepage": "https://github.com/ngangchill/cordova-vue-onsenui-webpack-template",
   "keywords": [
     "ecosystem:phonegap",
     "ecosystem:cordova",
