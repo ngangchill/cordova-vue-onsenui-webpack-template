@@ -28,6 +28,7 @@ You can start your new cordova project perfectly with this template.
 This template uses:
 * [Onsenui](https://onsen.io/v2/guide/vue)
 * [Vue Js 2](https://vuejs.org/)
+* [Vue Router](https://router.vuejs.org/)
 * [Vuex](https://github.com/vuejs/vuex)
 * [Webpack 4](https://webpack.github.io/)
 * [Cordova](https://cordova.apache.org/)
