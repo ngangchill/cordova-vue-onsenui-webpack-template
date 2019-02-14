@@ -1,0 +1,57 @@
+[v-cloak] {
+    display: none;
+}
+
+.page__background {
+    /*background-color: #CFD8DC /* #3700B3*/
+    background: linear-gradient(to right, #c2d9e5 0%, rgb(151, 184, 184) 80%)
+    /*background-image: url(’…/img/file.jpg’);*/
+}
+
+.input {
+    width: 100%;
+    display: block;
+}
+
+.error {
+    color: #b00020
+}
+
+.button--red {
+    background-color: #f73c3c;
+}
+
+.button--orange {
+    background-color: #ffb836;
+}
+
+.button--fab {
+    background-color: #006064;
+    color: white;
+}
+
+.dialog--fab{
+    min-width: 350px;
+    min-height: 250px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover{
+    color: brown;
+    text-decoration: none;
+}
+
+ons-card {
+    padding: 0px;
+}
