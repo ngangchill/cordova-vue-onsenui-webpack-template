@@ -8,7 +8,7 @@ import 'onsenui/css/onsen-css-components.css';
 
 Vue.use(VueOnsen);
 
-import './assets/sass/main.css'
+import './assets/sass/main.scss'
 import Navbar from './assets/vue/partials/navbar.vue'
 
 // Import App Component
